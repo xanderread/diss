@@ -1,4 +1,5 @@
-# A Lightweight, Real-Time Person Detection System for Aerial Search and Rescue
+# A Lightweight, Real-Time Person Detection System for Aerial Search and Rescue 
+## Trained on a custom synthetic GTA 5 dataset and drone datasets to cover conditions not represented in existing datasets
 ### Code Submission 
 
 This repo contains the code for the paper submitted as part of the degree of BSc Computer Science to the Board of Examiners in the Department of Computer Sciences, Durham University. 
